@@ -7,6 +7,7 @@
     <groupId>com.iih5</groupId>
     <version>1.0</version>
     <artifactId>smart-wechat</artifactId>
+    <name>smart-wechat</name>
     <dependencies>
         <dependency>
             <groupId>log4j</groupId>
@@ -44,7 +45,7 @@
             <version>1.6.1</version>
         </dependency>
     </dependencies>
-    
+
     <description>这是个微信公众号开发的java微框架，旨在帮助开发者快速实现公众号开发</description>
     <url>http://www.iih5.com/</url>
     <licenses>
